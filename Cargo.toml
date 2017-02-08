@@ -1,0 +1,9 @@
+[package]
+name = "exif_date_syncer"
+version = "0.1.0"
+authors = ["mopp"]
+
+[dependencies]
+rexiv2   = "0.4.1"
+chrono   = "0.2"
+filetime = "0.1"
